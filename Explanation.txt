@@ -1,4 +1,4 @@
-The shiny app allows to select two variables of mpg (vehicle information dataset) and plot a boxplot graphic of these two variables.
+The shiny app allows to select two variables of mpg dataset (vehicle information) and plot a boxplot graphic of these two variables.
 
 Elements in Side Panel
 - "Horizontal Axis" listitem in shiny App: Allows to select the variable to be plotted in the x - axis.
