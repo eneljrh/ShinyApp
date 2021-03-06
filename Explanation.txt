@@ -1,0 +1,12 @@
+
+The shiny app allows to select two variables of mpg dataset and plot
+a boxplot graphic of these two variables.
+
+Elements in Side Panel
+- "Horizontal Axis" listitem in shiny App: Allows to select the variable to be plotted in the x - axis.
+
+- "Horizontal Axis" listitem in shiny App: Allows to select the variable to be plotted in the y - axis.
+
+Elements in Main Panel
+- Once both listitems are informed, a boxplot graphic of the two variables selected, are displayed on the main panel of the shiny app. 
+- Every change in both listitems, reload de bloxplot.
